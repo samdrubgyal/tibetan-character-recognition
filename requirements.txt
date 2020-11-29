@@ -1,0 +1,13 @@
+Keras==2.3.1
+matplotlib
+numpy==1.19.0
+packaging==20.4
+pandas==1.1.4
+Pillow==7.1.2
+PyYAML==5.3.1
+scipy
+sklearn==0.0
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0.post3
+tensorflow==2.2.0
+termcolor==1.1.0
