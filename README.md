@@ -44,7 +44,7 @@ TPCD-hzbb和Original-Img包括所有构建的藏文印刷体字丁数据集（48
 
 ## Contributors
 
-+ Samdrub Gyal <sds@yeah.net>
++ Samdrub Gyal <samdrubgyal@yeah.net>
 + ..
 
 ## Citation
@@ -52,9 +52,9 @@ TPCD-hzbb和Original-Img包括所有构建的藏文印刷体字丁数据集（48
 ```json
 
 @article{sanzhijia-2020,
-    title="hello world and hello you",
-    author= "hello you and hello me",
-    journal="Inteligence IIT",
+    title="基于神经网络的多字体藏文印刷体字丁识别研究",
+    author= "三知加",
+    journal="计算机工程与应用",
     year="2020"
 }
 ```
