@@ -44,7 +44,7 @@ TPCD-hzbb和Original-Img包括所有构建的藏文印刷体字丁数据集（48
 
 ## Contributors
 
-+ Samdrub Gyal <sds@outlook.com>
++ Samdrub Gyal <sds@yeah.net>
 + ..
 
 ## Citation
