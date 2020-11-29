@@ -1,4 +1,4 @@
-# tibetan-character-recognition
+# Tibetan character Recognition
 
 ## Data
 TPCD Datasets数据集进行图像分类。它是《Research on multi font Tibetan printed character recognition based on Neural Network》文章的藏文字丁图片数据集-其中训练集为39168、测试集为3917、验证集为5875个。TPCD数据集拥有544个藏文字丁由48960张黑白图片构成并且这些黑白的PNG图像以5184像素组成，每张图片的大小为72*72，由544类藏文字丁构成。
@@ -8,14 +8,17 @@ TPCD Datasets数据集进行图像分类。它是《Research on multi font Tibet
 
 
 ### Requirements
-Python 3.6
-Tensorflow 2.2.0
-keras 2.3.1
-opencv-contrib-python 4.3.0.36
 
+
++ Python >= 3.6
++ Tensorflow >= 2.2.0
++ keras >=2.3.1
++ OpenCV and its python binding
++ sklearn
++ pandas
++ numpy
++ matplot
 ### Dependencies
-os
-re
 PIL
 cv2
 numpy
