@@ -51,10 +51,10 @@ TPCD-hzbb和Original-Img包括所有构建的藏文印刷体字丁数据集（48
 
 ```json
 
-@article{samdrubgyal-2020,
-    title="基于神经网络的多字体藏文印刷体字丁识别研究",
+@article{samdrubgyal-2021,
+    title="基于神经网络的多字体藏文印刷体字丁识别",
     author= "三知加",
-    journal="计算机工程与应用",
-    year="2020"
+    journal="计算机仿真",
+    year="2021"
 }
 ```
